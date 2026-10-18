@@ -1,3 +1,4 @@
 version: 1
 product: java-utilities
+production_branch: master
 deployable: false
